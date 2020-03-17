@@ -14,6 +14,3 @@ ln -s ../plik1.txt $1/A/B/link_plik1
 ln -s ../A/B/plik2.txt $1/E/link_plik2
 ln -s ../A/C/D/plik3.txt $1/E/link_plik3
 ln -s ../../../E/plik4.txt $1/A/C/D/link_plik4
-
-
-
